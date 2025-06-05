@@ -2,11 +2,11 @@
 
 
 
-Bu proje, bir bilgisayar ağındaki yazılımcıları, ağ trafiği analiz aracı olan Wireshark kullanarak tespit etmeyi amaçlamaktadır. Temel hedef, yazılımcıların karakteristik ağ aktivitelerini (örneğin, Git/SSH kullanımı, IDE'ler ve kod editörlerinden kaynaklanan trafik, geliştirme/test sunucularına erişim, API test araçları trafiği, sanal makine/konteyner etkileşimleri ve özel port/protokol kullanımları) analiz ederek ayırt edici dijital izlerini belirlemektir. Proje kapsamında, bu özel trafik desenlerini etkin bir şekilde saptamak ve diğer ağ trafiğinden ayrıştırmak amacıyla hem canlı veri yakalama aşamasında (capture filters) hem de yakalanmış verilerin incelenmesi sırasında (display filters) kullanılacak kapsamlı ve özelleştirilmiş Wireshark filtreleri oluşturulacaktır. Bu filtreler, yazılımcılara özgü uygulamaların, servislerin ve davranış kalıplarının tespiti üzerine yoğunlaşarak, ağ üzerindeki yazılımcı varlığını ve faaliyetlerini yüksek doğrulukla belirlemeyi hedeflemektedir.
+SubScanVuln, web uygulamalarının güvenlik seviyesini artırmak için tasarlanmış gelişmiş bir web güvenliği aracıdır. Tüm ilişkili alt alan adlarını belirlemek için kapsamlı alt alan taraması yapar ve erişilebilir API'ler ile web uç noktalarını keşfetmek için detaylı uç nokta taraması gerçekleştirir. Bu uç noktalardan parametreleri toplayarak derinlemesine analiz yapar ve XSS, SQL enjeksiyonu veya yapılandırma hataları gibi potansiyel güvenlik açıklarını tespit etmek için otomatik zafiyet taraması yürütür. Ayrıca, koruyucu katmanları tanımlamak için güçlü WAF (Web Uygulama Güvenlik Duvarı) algılama özelliği sunar. Ölçeklenebilirlik ve doğruluk için geliştirilen SubScanVuln, güvenlik araştırmacıları, penetrasyon test uzmanları ve web varlıklarını proaktif olarak korumak isteyen kuruluşlar için idealdir.
 
 
+**Görev:** 2025 yılı için Web güvenliği için gelişmiş bir araç; alt alan adlarını tarar, uç noktaları tespit eder, parametreleri toplar, zafiyet taraması yapar ve WAF sistemlerini algılar. alanındaki en son ve en etkili ilk 10 tekniği/trendi derinlemesine araştır ve belirle.
 
-**Görev:** 2025 yılı için [Developer Hunter, 'wireshark kullanarak yazilimcilari agda tesbit etmek (Yazilimci Avi)'] alanındaki en son ve en etkili ilk 10 tekniği/trendi derinlemesine araştır ve belirle.
 
 
 
@@ -40,12 +40,8 @@ Bu proje, bir bilgisayar ağındaki yazılımcıları, ağ trafiği analiz arac�
 
 **Örnek Alanlar (Projenize Göre Değiştirin):**
 
-- Yazılım Geliştirme Metodolojileri
-
-- Veri Bilimi ve Makine Öğrenimi Uygulamaları
-
-- Blokzincir Teknolojileri
-
-- Dijital Pazarlama Stratejileri
-
-- İnsan-Bilgisayar Etkileşimi Arayüzleri
+-Web Güvenliği ve Penetrasyon Test Araçları: Otomatik zafiyet tarama, sömürü tespiti ve güvenlik denetimi için araçlar geliştirme.
+-Ağ Güvenliği Analizi: Ağ trafiğini izleme ve analiz ederek tehditleri ve zafiyetleri tespit eden çözümler oluşturma.
+-API Güvenlik Testi: Uç nokta taraması ve parametre analizi ile API'lerin güvenliğini değerlendiren araçlar geliştirme.
+-Siber Güvenlik Otomasyonu: Sürekli güvenlik izleme ve tehdit tespiti için otomatik sistemler tasarlama.
+-Tehdit İstihbarat Platformları: Tehdit verilerini toplayıp analiz ederek eyleme geçirilebilir güvenlik bilgileri sağlayan platformlar geliştirme
