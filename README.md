@@ -1,41 +1,43 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/mss-kubracan/Web-Security?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/mss-kubracan/Web-Security?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/mss-kubracan/Web-Security?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/mss-kubracan/Web-Security?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# SubScanVuln
+SubScanVuln
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+An advanced web security tool that scans subdomains, identifies endpoints, collects parameters, and performs vulnerability assessments while detecting WAF systems.
+Web güvenliği için gelişmiş bir araç; alt alan adlarını tarar, uç noktaları tespit eder, parametreleri toplar, zafiyet taraması yapar ve WAF sistemlerini algılar.
 
 ---
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
-
+- Subdomain scanning to discover all associated subdomains. 
+  Tüm ilişkili alt alan adlarını keşfetmek için alt alan taraması.
+- Endpoint enumeration to identify accessible API and web endpoints. 
+  Erişilebilir API ve web uç noktalarını belirlemek için uç nokta taraması.
+- Parameter collection for in-depth analysis of input fields.
+  Giriş alanlarının derinlemesine analizi için parametre toplama.
+- Vulnerability scanning to detect potential security weaknesses. 
+  Potansiyel güvenlik açıklarını tespit etmek için zafiyet taraması.
+- WAF (Web Application Firewall) detection for enhanced security insights.
+  Gelişmiş güvenlik bilgileri için WAF (Web Uygulama Güvenlik Duvarı) algılama.
 ---
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
+- 2320191092 - Kübra Can : Security Researcher
+  *Kübra Can: Güvenlik Araştırmacısı
+- 2320191096 - Ayşe Çamır:  DevOps & UI/UX Specialist
+  *Ayşe Çamır: DevOps ve UI/UX Uzmanı
 - Add more members as needed.  
   *Gerektiğinde daha fazla üye ekleyin.*
+
 
 ---
 
@@ -134,10 +136,10 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Kübra Can] [Ayşe Çamır] - [kubra.can@istinye.edu.tr] [ayse.camir@istinye.edu.tr]    
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Kübra Can /Istinye Universty] - [kubra.can@istinye.edu.tr] [Ayşe Çamır /Istinye Universty] - [ayse.camir@istinye.edu.tr].
 
 ---
 
